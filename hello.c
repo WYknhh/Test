@@ -16,5 +16,5 @@ curl_easy_setopt(curl,CURLOPT_URL,"http://myip.ipip.net/");
  curl_easy_strerror(res)); 
  curl_easy_cleanup(curl); 
  } 
- return 0; 
+ return0; 
 } 
