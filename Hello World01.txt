@@ -1,1 +1,2 @@
 My school is njupt
+Hello world
